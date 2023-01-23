@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CendrolTask/static/css/main.2ba57fd2.css",
+    "main.js": "/CendrolTask/static/js/main.630d276b.js",
+    "index.html": "/CendrolTask/index.html",
+    "main.2ba57fd2.css.map": "/CendrolTask/static/css/main.2ba57fd2.css.map",
+    "main.630d276b.js.map": "/CendrolTask/static/js/main.630d276b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ba57fd2.css",
+    "static/js/main.630d276b.js"
+  ]
+}
